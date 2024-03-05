@@ -1,0 +1,49 @@
+@import url('reset.css');
+body {
+    font-family: Sans-Serif;
+}
+h2 {
+    height: 150px;
+    border: 10px solid #000000;
+    padding: 20px;
+    margin: 40px;
+}
+h2, h3, p {
+    text-align: center;
+}
+p em {
+    text-align: center;
+    font-size: 20px;
+}
+em strong {
+    color: red;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+#banner {
+    width: 100%;
+}
+.principal {
+    background: #cccccc;
+    padding: 20px;
+}
+.titulo-centralizado {
+    text-align: center;
+}
+.titulo-principal {
+    padding-left: 30px;
+}
+.diferenciales {
+    background: #ffffff;
+    padding: 30px;
+}
+.items {
+    font-style: italic;
+}
+.imgDiferenciales {
+    width: 50%;
+}
